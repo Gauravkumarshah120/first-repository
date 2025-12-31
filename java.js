@@ -1,0 +1,1 @@
+console.log ("nandu bhida dimag ma kida");
